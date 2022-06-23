@@ -1,7 +1,7 @@
 name: joe_network_helper
 description: 网络相关的工具类
 version: 0.0.4
-homepage:
+homepage: https://github.com/wangdongyang/joe_network_helper
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
